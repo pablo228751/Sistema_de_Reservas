@@ -7,7 +7,7 @@
 <p align="center">
 Este es un programa en C++ de gestión hotelera. El programa incluye múltiples archivos de cabecera y clases Se aplica paradigma POO.
 
-Incluye diferentes características para gestionar reservas, huéspedes, habitaciones, empleados y copias de seguridad.
+  Incluye diferentes características para gestionar reservas, huéspedes, habitaciones, empleados y copias de seguridad.
 </p>
 
 
