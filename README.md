@@ -1,7 +1,7 @@
 <h1 align="center">Sistema de Reserva Hotelera en C++ (POO)</h1>
 
 <p align="center">
-  <img src="imagen1.jpg" alt="Captura de Pantalla">
+  <img src="imagen1.png" alt="Captura de Pantalla">
 </p>
 
 <p align="center">
