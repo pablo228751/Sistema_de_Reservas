@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto Laboratorio II" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto Laboratorio II" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto Laboratorio II" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/ArchivoCliente.h" />
+		<Unit filename="include/ArchivoHabitacion.h" />
+		<Unit filename="include/ArchivoReservas.h" />
+		<Unit filename="include/ArchivoVentas.h" />
+		<Unit filename="include/BackUp.h" />
+		<Unit filename="include/Check_In.h" />
+		<Unit filename="include/Check_Out.h" />
+		<Unit filename="include/Cliente.h" />
+		<Unit filename="include/Contacto.h" />
+		<Unit filename="include/CrearMenu.h" />
+		<Unit filename="include/DiseniarMenu.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/Funciones.h" />
+		<Unit filename="include/Habitacion.h" />
+		<Unit filename="include/Informes.h" />
+		<Unit filename="include/Listados.h" />
+		<Unit filename="include/Modificaciones.h" />
+		<Unit filename="include/Persona.h" />
+		<Unit filename="include/RegistroYLogin.h" />
+		<Unit filename="include/Reservas.h" />
+		<Unit filename="include/Usuarios.h" />
+		<Unit filename="include/Ventas.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/ArchivoCliente.cpp" />
+		<Unit filename="src/ArchivoHabitacion.cpp" />
+		<Unit filename="src/ArchivoReservas.cpp" />
+		<Unit filename="src/ArchivoVentas.cpp" />
+		<Unit filename="src/BackUp.cpp" />
+		<Unit filename="src/Check_In.cpp" />
+		<Unit filename="src/Check_Out.cpp" />
+		<Unit filename="src/Cliente.cpp" />
+		<Unit filename="src/Contacto.cpp" />
+		<Unit filename="src/CrearMenu.cpp" />
+		<Unit filename="src/DiseniarMenu.cpp" />
+		<Unit filename="src/Fecha.cpp" />
+		<Unit filename="src/Funciones.cpp" />
+		<Unit filename="src/Habitacion.cpp" />
+		<Unit filename="src/Informes.cpp" />
+		<Unit filename="src/Listados.cpp" />
+		<Unit filename="src/Modificaciones.cpp" />
+		<Unit filename="src/Persona.cpp" />
+		<Unit filename="src/RegistroYLogin.cpp" />
+		<Unit filename="src/Reservas.cpp" />
+		<Unit filename="src/Usuarios.cpp" />
+		<Unit filename="src/Ventas.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
